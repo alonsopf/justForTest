@@ -11,4 +11,3 @@ scenarios:
     - label: demo
       method: GET
       url: https://google.com/
-      
